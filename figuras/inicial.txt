@@ -1,1 +1,4 @@
-hola
+hola.
+Esta es la caroeta donde dejar las figuras.
+
+Slds.
